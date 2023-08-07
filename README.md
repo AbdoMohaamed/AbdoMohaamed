@@ -21,11 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdo-mohamed-2277b1191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedraslan28" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010056636019&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100002455175512" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmedraslan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmedraslan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-  <a href="mailto:Abdomohamed2751@gmail.com">
-  <img align="left" alt="raslan's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
-</a>
+
 </p>
 <br/>
 
