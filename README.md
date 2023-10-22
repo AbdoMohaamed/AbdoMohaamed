@@ -5,14 +5,13 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraslan" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="abdoMohamed" />
 </div>
 
 <div align="left">
-  
-  # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Abdo Mohamed](https://www.linkedin.com/in/ahmedraslan28/) 
+ # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Abdo Mohamed]([https://www.linkedin.com/in/ahmedraslan28/](https://www.linkedin.com/in/abdo-mohamed-2277b1191)) 
 
-  <h3>A passionate Backend developer from Egypt</h3>
+  <h3>Full Stack .Net Developer</h3>
 </div>
 <br/>
 
