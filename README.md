@@ -21,24 +21,23 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdo-mohamed-2277b1191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdomohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile/Abdo-Mohamed/100010056636019/?mibextid=LQQJ4d&rdid=PLn1aL3RFGIqC070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010056636019" height="30" width="40" /></a>
-
 </p>
 <br/>
-
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills!
 I am Abdelmaboud , a highly motivated and dedicated full stack developer with a strong background in web development and a specialization in .NET framework. With a Bachelor's degree in Computer science from Modern Academy, I possess a solid foundation in both business and technology. With two years of experience in the web development field, I have successfully delivered high-quality projects, showcasing my proficiency in front-end and backend development using technologies like HTML, CSS, JavaScript, and frameworks such as ASP.NET and MVC.
-
-• Professional Experience in .Net Framework.
-• Working knowledge with Visual Studio, C#, SQL Server, RESTful APIs, and MVC.
-• Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
-• Familiar with JIRA, Git (GitHub, Bitbucket, GitLab).
-• Solid understanding of the full web app development life cycle.
-• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
-• Identify and correct bugs. Maintain quality and ensure responsiveness of applications.
-• Proofreading app code and correcting mistakes before each app is released.
-• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
-• Identify and correct bugs.
-• Maintain quality and ensure responsiveness of applications.
+<br/>
+- Professional Experience in .Net Framework.
+- Working knowledge with Visual Studio, C#, SQL Server, RESTful APIs, and MVC.
+- Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
+- Familiar with JIRA, Git (GitHub, Bitbucket, GitLab).
+- Solid understanding of the full web app development life cycle.
+- Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+- Identify and correct bugs. Maintain quality and ensure responsiveness of applications.
+- Proofreading app code and correcting mistakes before each app is released.
+- Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+- Identify and correct bugs.
+- Maintain quality and ensure responsiveness of applications.
+- solve +2000 problem in different online judges(codeforces, leetcode, .....)
 
 <br/>
 
