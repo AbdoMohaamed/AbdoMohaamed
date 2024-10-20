@@ -8,7 +8,7 @@
 
 <div align="left">
   
-  # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">, I'm [Abdo Mohamed](https://www.linkedin.com/in/abdomohamed27) 
+  # Hey <img align="center" src="https://github.com/AbdoMohaamed/AbdoMohaamed/blob/main/wave.gif?raw=true" width="40px" height="40px">, I'm [Abdo Mohamed](https://www.linkedin.com/in/abdomohamed27) 
 
   <h3>Full Stack .Net Developer</h3>
 </div>
