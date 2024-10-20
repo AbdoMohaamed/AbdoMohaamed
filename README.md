@@ -12,7 +12,7 @@
   
   # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Abdo Mohamed](https://www.linkedin.com/in/abdomohamed27/) 
 
-  <h3>A passionate Backend Developer from Egypt</h3>
+  <h3>Full Stack .Net Developer</h3>
 </div>
 <br/>
 
@@ -26,11 +26,19 @@
 <br/>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-- Software Engineer with solid fundamentals of Software Development (data structures, algorithms, OOP and database). 
-- Interested mainly in backend development with a passion for encountering complex queries, database designing, and optimization.
-- I am dedicated to building robust and scalable applications that solve real-world problems.
-- Problem solver with strong competitive programming experience and more advanced algorithms, participated in different programing competitions(Acpc, facebook hacker cup, ....)
-- solve +2000 problem in different online judges(codeforces, leetcode, .....)
+I am Abdelmaboud , a highly motivated and dedicated full stack developer with a strong background in web development and a specialization in .NET framework. With a Bachelor's degree in Computer science from Modern Academy, I possess a solid foundation in both business and technology. With two years of experience in the web development field, I have successfully delivered high-quality projects, showcasing my proficiency in front-end and backend development using technologies like HTML, CSS, JavaScript, and frameworks such as ASP.NET and MVC.
+
+• Professional Experience in .Net Framework.
+• Working knowledge with Visual Studio, C#, SQL Server, RESTful APIs, and MVC.
+• Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
+• Familiar with JIRA, Git (GitHub, Bitbucket, GitLab).
+• Solid understanding of the full web app development life cycle.
+• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+• Identify and correct bugs. Maintain quality and ensure responsiveness of applications.
+• Proofreading app code and correcting mistakes before each app is released.
+• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+• Identify and correct bugs.
+• Maintain quality and ensure responsiveness of applications.
 
 <br/>
 
