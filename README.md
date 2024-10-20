@@ -5,22 +5,22 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedraslan28&label=Profile%20views&color=0e75b6&style=flat" alt="abdoMohamed" />
+  <img src="https://komarev.com/ghpvc/?username=AbdoMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Abdo Mohamed" />
 </div>
 
 <div align="left">
- # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" 
-      width="40px" height="40px">,I'm [Abdo Mohamed]([https://www.linkedin.com/in/abdo-mohamed-2277b1191/]) 
+  
+  # Hey <img align="center" src="https://github.com/ahmedraslan28/ahmedraslan28/blob/main/wave.gif" width="40px" height="40px">,I'm [Abdo Mohamed](https://www.linkedin.com/in/abdomohamed27/) 
 
-  <h3>Full Stack .Net Developer</h3>
+  <h3>A passionate Backend Developer from Egypt</h3>
 </div>
 <br/>
 
 # 📕 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdo-mohamed-2277b1191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedraslan28" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010056636019&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100002455175512" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdo-mohamed-2277b1191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdomohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile/Abdo-Mohamed/100010056636019/?mibextid=LQQJ4d&rdid=PLn1aL3RFGIqC070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010056636019" height="30" width="40" /></a>
 
 </p>
 <br/>
