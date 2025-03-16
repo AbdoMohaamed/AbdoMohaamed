@@ -19,7 +19,7 @@
 <p dir="auto">💬 Ask me about <strong>.Net MVC, ASP.NET, SQL, Database, C#.</strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:ebrahem.karm23@gmail.com">abdomohamed2751@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:abdomohamed2751@gmail.com">abdomohamed2751@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/17PE_tSPr6jhPjumWsocBRb4VNrsZ9N0u/view?usp=drivesdk" rel="nofollow">https://drive.google.com/file/d/17PE_tSPr6jhPjumWsocBRb4VNrsZ9N0u/view?usp=drivesdk</a></p>
