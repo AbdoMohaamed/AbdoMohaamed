@@ -11,6 +11,20 @@
   # Hey <img align="center" src="https://github.com/AbdoMohaamed/AbdoMohaamed/blob/main/wave.gif?raw=true" width="40px" height="40px">, I'm [Abdo Mohamed](https://www.linkedin.com/in/abdomohamed27) 
 
   <h3>Full Stack .Net Developer</h3>
+  <ul dir="auto">
+<li>
+<p dir="auto">🌱 I’m currently learning <strong>ASP.NET, Web APIs, SQL, Database, C#, Data Structure, .Net MVC.</strong></p>
+</li>
+<li>
+<p dir="auto">💬 Ask me about <strong>.Net MVC, ASP.NET, SQL, Database, C#.</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:ebrahem.karm23@gmail.com">abdomohamed2751@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/17PE_tSPr6jhPjumWsocBRb4VNrsZ9N0u/view?usp=drivesdk" rel="nofollow">https://drive.google.com/file/d/17PE_tSPr6jhPjumWsocBRb4VNrsZ9N0u/view?usp=drivesdk</a></p>
+</li>
+</ul>
 </div>
 <br/>
 
