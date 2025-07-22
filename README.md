@@ -1,73 +1,112 @@
+<!-- Glowing Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdoMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Abdo Mohamed" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub+Profile!;I'm+Ibrahim+Adams,+a+Software+Engineer!;Building+Amazing+Bots+like+BWM-XMD.;Feel+Free+to+Explore+My+Repositories." alt="Typing Animation">
+</h1>
 
-<div align="left">
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+---
+
+## 🚀 **Quick Links**
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366&labelColor=000000" alt="WhatsApp Channel">
+  </a>
+
+  <a href="https://www.ibrahimadams.site/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white&color=FFA500&labelColor=000000" alt="Website">
+  </a>
+
+  <a href="https://github.com/devibraah/BWM-XMD" target="_blank">
+    <img src="https://img.shields.io/badge/BWM_XMD_Repo-181717?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=000000" alt="BWM-XMD Repo">
+  </a>
+</p>
+
+---
+
+## 🛠️ **Languages & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,html,css,python,linux" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaitech&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devibraah&theme=radical" width="49%">
+</p>
+
+---
+
+## 🎥 **Latest YouTube Video**
+[![Latest YouTube Video](https://img.youtube.com/vi/MsHd3uzDUhY/0.jpg)](https://www.youtube.com/watch?v=MsHd3uzDUhY)
+
+---
+## 🌍 **Live Contribution Metrics**
+<p align="center">
+  <!-- 3D Globe Animation -->
+  <a href="https://github.com/ibrahimaitech">
+    <img src="https://files.catbox.moe/gav8qx.webp" width="400" alt="Sir Ibrahim Adams CEO Of BWM-XMD ">
+  </a>
   
-  # Hey <img align="center" src="https://github.com/AbdoMohaamed/AbdoMohaamed/blob/main/wave.gif?raw=true" width="40px" height="40px">, I'm [Abdelmaboud Mohamed](https://www.linkedin.com/in/abdomohamed27) 
-
-  <h3>Full Stack .Net Developer</h3>
-  <hr/>
-  <ul dir="auto">
-<li>
-<p dir="auto">🌱 I’m currently learning <strong>ASP.NET, Web APIs, SQL, Database, C#, Data Structure, .Net MVC.</strong></p>
-</li>
-<li>
-<p dir="auto">💬 Ask me about <strong>.Net MVC, ASP.NET, SQL, Database, C#.</strong></p>
-</li>
-<li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:abdomohamed2751@gmail.com">abdomohamed2751@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1Od2H0bP9gqLHXg9Qk6YTTxEqf_rdW50F/view?usp=drivesdk" rel="nofollow">https://drive.google.com/file/d/1Od2H0bP9gqLHXg9Qk6YTTxEqf_rdW50F/view?usp=drivesdk</a></p>
-</li>
-</ul>
-</div>
-<br/>
-
-# 📕 Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abdomohamed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdomohamed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile/Abdo-Mohamed/100010056636019/?mibextid=LQQJ4d&rdid=PLn1aL3RFGIqC070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010056636019" height="30" width="40" /></a>
-<a href="https://wa.me/+201013470551" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
+  <!-- Heatmap Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=FF4500&point=00FF00" width="100%" alt="Heatmap Graph">
 </p>
 
-<br/>
+---
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About me!
-I am Abdelmaboud, a highly motivated and dedicated full stack developer with a strong background in web development and a specialization in .NET framework. With a Bachelor's degree in Computer science from Modern Academy, I possess a solid foundation in both business and technology. With two years of experience in the web development field, I have successfully delivered high-quality projects, showcasing my proficiency in front-end and backend development using technologies like HTML, CSS, JavaScript, and frameworks such as ASP.NET and MVC.
+## 🔥 **Trending GitHub Activity**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimaitech&theme=radical&margin-w=5&column=6&no-frame=true" width="100%" alt="GitHub Trophies">
+</p>
 
-- Professional Experience in .Net Framework.
-- Working knowledge with Visual Studio, C#, SQL Server, RESTful APIs, and MVC.
-- Working experience with third-party libraries, Payment Gateway like Stripe, and APIs.
-- Familiar with JIRA, Git (GitHub, Bitbucket, GitLab).
-- Solid understanding of the full web app development life cycle.
-- Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
-- Identify and correct bugs. Maintain quality and ensure responsiveness of applications.
-- Proofreading app code and correcting mistakes before each app is released.
-- Solve +2000 problems in different online judges (Codeforces, Leetcode, etc.).
+---
 
-<br/>
+## 🌆 **3D Skyline & Page Speed**
+<p align="center">
+  <!-- GitHub Skyline -->
+  <img src="https://files.catbox.moe/v488ne.webp" width="400" alt="GitHub Skyline">
+  
+  <!-- GitHub PageSpeed Score -->
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
+</p>
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills!
+---
 
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+## 🎵 **Glowing Typing Animation**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=700&height=40&lines=Welcome+to+Ibrahim+Adams'+GitHub!;Software+Engineer+%7C+BWM-XMD+Creator;Explore+my+projects+and+code!" alt="Typing Animation">
+</p>
 
-</p> 
+---
+
+## 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,nodejs,react,nextjs,flutter,figma,linux,github,git,tailwind" />
+</p>
+
+---
+
+## 📞 **Connect With Me**
+<p align="center">
+  <a href="https://wa.me/+254710772666" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  
+  <a href="https://youtube.com/@ibrahimaitech" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
