@@ -36,9 +36,9 @@ Hi there! I'm Abdelmaboud, a passionate Full Stack .NET Developer with a strong 
 
 ✔️ Collaborate effectively with UI/UX designers and QA testers to ensure pixel-perfect and bug-free applications.
 
-✔️ Debugging expert – always chasing bugs like it's a sport.
+✔️ Debugging expert – always chasing bugs.
 
-✔️ Solved 2000+ coding challenges on platforms like Codeforces and LeetCode – yes, I'm that guy.
+
 
 
 
